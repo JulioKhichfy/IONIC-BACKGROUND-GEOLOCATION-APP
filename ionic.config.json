@@ -1,0 +1,7 @@
+{
+  "name": "IONIC-BACKGROUND-GEOLOCATION-APP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
